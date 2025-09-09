@@ -5,3 +5,4 @@ Proyecto para practicas git
 ## HOLA A TODOS ARCHIVO MODIFICADO
 
 est modus in rebus
+Aqui hay un conflicto :(
